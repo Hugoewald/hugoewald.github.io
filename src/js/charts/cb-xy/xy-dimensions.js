@@ -36,6 +36,10 @@ function calculate_xy_dimensions(width, opts) {
 			height = width * aspectRatio.smallSpot;
 			break;
 
+			case "insta":
+				height = width * aspectRatio.square;
+				break;
+
 		default:
 			height = width * aspectRatio.wide;
 	}

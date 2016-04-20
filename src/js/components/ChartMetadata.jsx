@@ -36,7 +36,13 @@ var chart_sizes = [
 		title: "Small spot chart",
 		content: "Small spot chart",
 		value: "spotSmall"
-	}
+	},
+	{
+	title: "For Instagram",
+	content: "Instagram Chart",
+	value: "insta"
+}
+
 ];
 
 var text_input_values = [

@@ -16,6 +16,10 @@ var chart_sizes = {
 	spotSmall: {
 		width: 320,
 		height: 250
+	},
+	insta: {
+		width: 612,
+		height: 612
 	}
 };
 
